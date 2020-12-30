@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`id`, `name`, `contact`, `email`, `password`, `root`) VALUES
 (7, 'Sara', 1631706287, 'sara@nsu.com', '1234', 1),
-(8, 'Sara', 1631706287, 'sara@nsu.com', '1234', 1);
+(8, 'Sara', 1631706287, 'abrukun@nsu.com', '1234', 1);
 
 -- --------------------------------------------------------
 
